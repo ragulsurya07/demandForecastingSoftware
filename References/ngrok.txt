@@ -1,0 +1,7 @@
+ngrok http --host-header=rewrite 3000
+------------------------------------------
+Inspecting the Traffic through Tunnel
+
+Ngrok provides us with the ability to inspect all the incoming or outgoing requests from the internet to your localhost. We can observe all the traffic by going to the following link
+localhost:4040/inspect/http
+------------------------------------------

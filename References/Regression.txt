@@ -1,0 +1,17 @@
+Linear regression:
+
+    y = a + b*x
+
+    a= (∑Y)(∑X2)−(∑X)(∑XY)/n(∑x2)−(∑x)2
+    b= n(∑XY)−(∑X)(∑Y)/n(∑x2)−(∑x)2
+    x --> it represents the month of which client want to find
+
+
+Least square regression:
+
+    y = a + b*x
+
+    ∑Y = na + b∑X
+    ∑XY = a∑X + b∑X2
+
+    example : https://byjus.com/maths/least-square-method/

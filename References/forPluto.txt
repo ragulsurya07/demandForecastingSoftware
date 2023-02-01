@@ -1,0 +1,9 @@
+https://coolsymbol.com/
+
+this is used for title making.(PLUTO)
+
+
+
+Syntax of --> data.append('file', uploadInput.files[0])
+append(name, value)
+append(name, value, filename)
